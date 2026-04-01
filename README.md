@@ -57,6 +57,7 @@ it-sector-forecasting-bd/
 ├── data/ # Dataset (CSV)
 ├── code/ # Python scripts (SARIMA, Prophet)
 ├── paper/ # Thesis document
+├── result/ # Thesis Result
 ├── notebooks/ # Jupyter notebooks (coming soon)
 └── README.md
 
