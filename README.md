@@ -94,6 +94,9 @@ This project was developed using **Python in Jupyter Notebook via Anaconda**.
 pip install pandas numpy matplotlib statsmodels prophet scikit-learn
 python code/sarima.py
 python code/prophet.py
+```
+
+---
 
 📊 Output
 The scripts generate:
