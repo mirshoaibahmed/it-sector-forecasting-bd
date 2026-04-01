@@ -97,42 +97,60 @@ python code/prophet.py
 ```
 
 ---
+---
 
-📊 Output
+## 📊 Output
+
 The scripts generate:
-Forecasted ICT export values (2025–2030)
-Accuracy metrics (MAPE, RMSE, R²)
-Visualization plots with confidence intervals
+- Forecasted ICT export values (2025–2030)  
+- Accuracy metrics (MAPE, RMSE, R²)  
+- Visualization plots with confidence intervals  
 
-🔍 Key Contribution
-Developed a data-constrained forecasting framework for emerging economies
-Compared SARIMA and Prophet in terms of accuracy, stability, and reliability
-Provided practical forecasting insights for Bangladesh’s ICT sector
+---
 
-⚠️ Limitations
-Limited dataset size
-External economic factors not included
-No deep learning models (e.g., LSTM) used
+## 🔍 Key Contribution
+- Developed a data-constrained forecasting framework for emerging economies  
+- Compared SARIMA and Prophet in terms of accuracy, stability, and reliability  
+- Provided practical forecasting insights for Bangladesh’s ICT sector  
 
-🔮 Future Work
-Hybrid models (SARIMA + Prophet)
-Deep learning approaches (LSTM, Transformers)
-Inclusion of external economic indicators
+---
 
-📒 Notebook (Coming Soon)
+## ⚠️ Limitations
+- Limited dataset size  
+- External economic factors not included  
+- No deep learning models (e.g., LSTM) used  
+
+---
+
+## 🔮 Future Work
+- Hybrid models (SARIMA + Prophet)  
+- Deep learning approaches (LSTM, Transformers)  
+- Inclusion of external economic indicators  
+
+---
+
+## 📒 Notebook (Coming Soon)
 A Jupyter Notebook version of the full workflow (EDA → SARIMA → Prophet → Evaluation) will be added.
 
-🛠 Repository Status
-Core components (dataset, code, and paper) are available.
+---
+
+## 🛠 Repository Status
+Core components (dataset, code, and paper) are available.  
 Notebook workflow and additional visualizations will be added soon.
 
-👤 Author
-Mir Shoaib Ahmed
-CSE Graduate, AIUB
-Focus: Backend Development, Data Systems, Forecasting, Applied Analytics
+---
 
-Md. Tahmid Hasan
-CSE Graduate, AIUB
+## 👤 Authors
 
-📄 License
+**Mir Shoaib Ahmed**  
+CSE Graduate, AIUB  
+Focus: Backend Development, Data Systems, Forecasting, Applied Analytics  
+
+**Md. Tahmid Hasan**  
+CSE Graduate, AIUB  
+
+---
+
+## 📄 License
 MIT License
+
