@@ -76,6 +76,26 @@ it-sector-forecasting-bd/
 - Prophet provides more stable long-term forecasts  
 
 ---
+## 🧩 System Overview 
+![System Flow](results/diagrams/system_flowchart.png)
+
+---
+
+## 📷 Forecast Results 
+
+### Prophet Forecast
+![Prophet](results/figures/prophet_forecast.png)
+
+### SARIMA Forecast
+![SARIMA](results/figures/sarima_forecast.png)
+
+### Model Comparison
+![Comparison](results/figures/forecast_comparison.png)
+
+### Error Comparison (MAPE)
+![MAPE](results/figures/mape_comparison.png)
+
+---
 
 ## ▶️ Environment
 This project was developed using **Python in Jupyter Notebook via Anaconda**.
